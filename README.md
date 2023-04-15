@@ -1,8 +1,37 @@
-# utn-argentinaprograma-vgv
+# Repositorio del curso Argentina Programa 4.0
 
-9. Hacer un formulario con dos campos (pesos y dólares) que al presionar un botón convierte de dólares a pesos. Supondremos que un dólar son trescientos pesos. Mostrar el resultado elemento de html.
+<!-- Hacer un readme con una breve introduccion al curso -->
 
-10. Generar la inversa del ejercicio anterior (de pesos a dólares).
+## Curso - Estructura y Temáticas
+Este curso contiene 16 clases, y un proyecto integrador. Las temáticas que se tratan son:
+- Conceptos de Programación
+- Principios de Diseño Web. UI/UX.
+- Gestión del Código Fuente. Git.
+- Arquitectura Web. API REST.
+- Metodologías Ágiles
 
-11. Hacer un formulario que convierta de grados centígrados a grados Fahrenheit. Para ello deberá multiplicar por 9/5 y sumar 32. Tener en cuenta que 30 grados centígrados
-son 86 grados fahrenheit.
+
+## Introducción
+
+Este repositorio contiene los ejercicios del curso de "Introducción a la Programación Web” de Argentina Programa 4.0.
+
+Objetivo del curso
+
+>"Que los participantes adquieran las
+herramientas necesarias para
+elaborar aplicaciones Web y
+desenvolverse de manera
+satisfactoria en el ámbito laboral,
+manejando herramientas necesarias
+en un equipo de desarrollo de
+software.”
+
+
+
+## Contribuciones
+
+Para contribuir al repositorio se puede hacer un fork del mismo, y luego hacer un pull request con los cambios realizados.
+
+## Autores
+
+- [Gabriel Vides]
