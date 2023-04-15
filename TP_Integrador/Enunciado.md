@@ -1,29 +1,28 @@
 # TP Integrador - “Introducción a la Programación Web”
 
-## Trabajo Práctico Integrador
-
 ## Objetivo
 Concretar un proyecto aplicando los conocimientos impartidos a lo largo del curso, con la
 finalidad de agregarlo a sus portfolios personales.
-- Enunciado
+
+Enunciado
 Desarrollar una landing page para una organización/emprendimiento/empresa
 (rubro/actividad a elección del estudiante) que cumpla, mínimamente, con los siguientes
 requisitos:
-1. El sitio debe contar con las siguientes Secciones:
+
+### 1. El sitio debe contar con las siguientes Secciones:
 - Presentación de la Organización
 - Presentación Personal
 - Formulario de Contacto
 - Formulario de un Proceso (Ejemplos: Cotización o Reclamo)
-2. El sitio debe contar con un Formulario de Proceso:
+### 2. El sitio debe contar con un Formulario de Proceso:
 - A modo Asistente (Wizard)
 - Validación de Campos
 - Generación de Resumen (No Editable)
 - Exportación a PDF
-3. El sitio debe utilizar las siguientes Bibliotecas
+### 3. El sitio debe utilizar las siguientes Bibliotecas
 - JQuery
 - Validate.JS
-
-4. El sitio debe contar con una Integración
+### 4. El sitio debe contar con una Integración
 - Consumo de API Externa a través de AJAX
 - Visualización de los Resultados Obtenidos
 
